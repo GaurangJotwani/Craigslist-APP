@@ -11,7 +11,7 @@ Technologies Used:
   2.Materialize Framework
  
  Webscraping:
-  1. Beutiful Soup
+  1. Beautiful Soup
   
  Deployment:
   1. Heroku
