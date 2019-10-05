@@ -14,11 +14,11 @@ Technologies Used:
  
  Webscraping:
  
- 1.Beutiful Soup
+  1.Beutiful Soup
  
  Deployment:
  
- 1.Heroku
+  1.Heroku
  
  
  
