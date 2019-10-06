@@ -20,4 +20,5 @@ from my_app import views
 urlpatterns = [
     path('admin/', admin.site.urls),
     path("css/",include("my_app.urls")),
+    path("",views.home),
 ]
